@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d796228d-3fee-46db-a7ca-2bc8022ca034" name="Default Changelist" comment="">
+    <list default="true" id="d796228d-3fee-46db-a7ca-2bc8022ca034" name="Default Changelist" comment="hh">
       <change beforePath="$PROJECT_DIR$/../../CalendarAssistant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CalendarAssistant/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../leetcode/mytest/Solutions" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/mytest/Solutions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Auction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Auction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Auction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Auction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Buyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Seller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/model/Seller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/service/AuctionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/service/AuctionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Auction/com/auction/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Auction/com/auction/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/data/DataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/dao/AuctionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/model/Bid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/model/Bid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/model/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/model/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/model/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/model/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/auction/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/auction/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cab/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mytest/Solutions" beforeDir="false" afterPath="$PROJECT_DIR$/../../mytest/Solutions" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,6 +30,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
@@ -20,51 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/model/Buyer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/auction/model/Auction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="183">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#645#646#0" expanded="true" />
@@ -81,8 +60,6 @@
                 <element signature="e#1013#1014#0" expanded="true" />
                 <element signature="e#1046#1047#0" expanded="true" />
                 <element signature="e#1075#1076#0" expanded="true" />
-                <element signature="e#1119#1120#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
                 <element signature="e#1199#1200#0" expanded="true" />
                 <element signature="e#1226#1227#0" expanded="true" />
                 <element signature="e#1279#1280#0" expanded="true" />
@@ -99,42 +76,82 @@
                 <element signature="e#1684#1685#0" expanded="true" />
                 <element signature="e#1751#1752#0" expanded="true" />
                 <element signature="e#1809#1810#0" expanded="true" />
+                <element signature="e#1893#1894#0" expanded="true" />
+                <element signature="e#1924#1925#0" expanded="true" />
+                <element signature="e#1969#1970#0" expanded="true" />
+                <element signature="e#2002#2003#0" expanded="true" />
+                <element signature="e#2081#2082#0" expanded="true" />
+                <element signature="e#2117#2118#0" expanded="true" />
+                <element signature="e#2150#2151#0" expanded="true" />
+                <element signature="e#2179#2180#0" expanded="true" />
+                <element signature="e#2223#2224#0" expanded="true" />
+                <element signature="e#2259#2260#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/data/DataStore.java">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/model/Bid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#245#260#0" expanded="true" />
-                <element signature="e#306#321#0" expanded="true" />
-                <element signature="e#397#413#0" expanded="true" />
-                <element signature="e#363#380#0" expanded="true" />
-                <element signature="e#372#390#0" expanded="true" />
-                <element signature="e#440#458#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
                 <element signature="e#1195#1196#0" expanded="true" />
-                <element signature="e#1337#1338#0" expanded="true" />
-                <element signature="e#1375#1376#0" expanded="true" />
-                <element signature="e#1535#1536#0" expanded="true" />
-                <element signature="e#1566#1567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/model/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,34 +160,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/auction/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+            <state relative-caret-position="481">
+              <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2061#2070#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/exception/InsufficientBalanceException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/model/Buyer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -178,30 +181,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/auction/model/Seller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="95" column="55" lean-forward="true" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#5918#5919#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/auction/model/Item.java">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/exception/AuctionException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
               <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/auction/dao/AuctionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#635#658#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1236#1237#0" expanded="true" />
+                <element signature="e#1274#1275#0" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+                <element signature="e#1532#1533#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
+                <element signature="e#1630#1631#0" expanded="true" />
+                <element signature="e#1669#1670#0" expanded="true" />
+                <element signature="e#1834#1835#0" expanded="true" />
+                <element signature="e#1870#1871#0" expanded="true" />
+                <element signature="e#2142#2143#0" expanded="true" />
+                <element signature="e#2182#2183#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -216,28 +246,46 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>winner</find>
+      <find>withdr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Bid</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/auction/model/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/auction/model/Bid.java" />
         <option value="$PROJECT_DIR$/src/com/auction/model/Action.java" />
         <option value="$PROJECT_DIR$/src/com/auction/test/AuctionServiceTest.groovy" />
-        <option value="$PROJECT_DIR$/src/com/auction/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/auction/model/Seller.java" />
         <option value="$PROJECT_DIR$/src/com/auction/service/Ledger.java" />
-        <option value="$PROJECT_DIR$/src/com/auction/model/Item.java" />
-        <option value="$PROJECT_DIR$/src/com/auction/model/User.java" />
-        <option value="$PROJECT_DIR$/src/com/auction/model/Buyer.java" />
         <option value="$PROJECT_DIR$/src/com/auction/exception/InsufficientBalanceException.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Item.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Person.java" />
         <option value="$PROJECT_DIR$/src/com/auction/data/DataStore.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/User.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/exception/AuctionException.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/dao/DataStore.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Bid11.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/dao/AuctionDao.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Buyer.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Bid.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/model/Seller.java" />
+        <option value="$PROJECT_DIR$/src/com/auction/test/Test.java" />
         <option value="$PROJECT_DIR$/src/com/auction/model/Auction.java" />
         <option value="$PROJECT_DIR$/src/com/auction/service/AuctionService.java" />
       </list>
     </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="Test.testAuction" />
+    </enabled-run-configurations>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -248,10 +296,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="1912" />
+    <option name="y" value="-6" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -267,6 +315,52 @@
             <path>
               <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auction" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,9 +379,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -312,7 +407,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.Test.testAuction">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.auction.Main" />
       <module name="Auction" />
@@ -355,15 +450,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test.testAuction2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Auction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auction.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auction.test" />
+      <option name="MAIN_CLASS_NAME" value="com.auction.test.Test" />
+      <option name="METHOD_NAME" value="testAuction2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.AuctionServiceTest.testAuction" />
       <item itemvalue="JUnit.Test.testAuction" />
+      <item itemvalue="JUnit.Test.testAuction2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Test.testAuction" />
+        <item itemvalue="JUnit.Test.testAuction2" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.AuctionServiceTest.testAuction" />
       </list>
     </recent_temporary>
@@ -379,35 +492,68 @@
       <option name="presentableId" value="Default" />
       <updated>1609085639548</updated>
     </task>
+    <task id="LOCAL-00001" summary="hh">
+      <created>1609395971578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609395971578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_testAuction - 2020.12.28 at 13h 30m 32s.xml">
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 03m 29s.xml">
       <configuration name="Test.testAuction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_testAuction - 2020.12.28 at 13h 30m 48s.xml">
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 04m 20s.xml">
       <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 08m 55s.xml">
+      <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 09m 40s.xml">
+      <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 10m 42s.xml">
+      <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction2 - 2021.01.04 at 16h 11m 47s.xml">
+      <configuration name="Test.testAuction2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 13m 23s.xml">
+      <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction2 - 2021.01.04 at 16h 14m 12s.xml">
+      <configuration name="Test.testAuction2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction - 2021.01.04 at 16h 26m 02s.xml">
+      <configuration name="Test.testAuction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAuction2 - 2021.01.04 at 16h 27m 38s.xml">
+      <configuration name="Test.testAuction2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-6" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.329429" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43484625" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10102489" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30333334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -420,29 +566,132 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.10102489" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hh" />
+    <option name="LAST_COMMIT_MESSAGE" value="hh" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/auction/test/Test.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>activeBids*0.2*auction.getParticipationCost()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Person.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Bid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/auction/test/AuctionServiceTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -460,42 +709,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Seller.java">
+    <entry file="file://$PROJECT_DIR$/src/com/auction/exception/InsufficientBalanceException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/auction/model/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding>
             <element signature="e#109#110#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
@@ -509,62 +737,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Buyer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.9/junit-4.9.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/exception/InsufficientBalanceException.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.9/junit-4.9.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="93">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#697#891#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/auction/data/DataStore.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.9/junit-4.9.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.9/junit-4.9.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.9/junit-4.9.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/exception/AuctionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Bid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Buyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/dao/AuctionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#245#260#0" expanded="true" />
-            <element signature="e#306#321#0" expanded="true" />
-            <element signature="e#397#413#0" expanded="true" />
-            <element signature="e#363#380#0" expanded="true" />
-            <element signature="e#372#390#0" expanded="true" />
-            <element signature="e#440#458#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#635#658#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+            <element signature="e#2182#2183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Bid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
             <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1337#1338#0" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-            <element signature="e#1535#1536#0" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/auction/model/Auction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="183">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#645#646#0" expanded="true" />
@@ -581,8 +910,6 @@
             <element signature="e#1013#1014#0" expanded="true" />
             <element signature="e#1046#1047#0" expanded="true" />
             <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
             <element signature="e#1199#1200#0" expanded="true" />
             <element signature="e#1226#1227#0" expanded="true" />
             <element signature="e#1279#1280#0" expanded="true" />
@@ -599,17 +926,37 @@
             <element signature="e#1684#1685#0" expanded="true" />
             <element signature="e#1751#1752#0" expanded="true" />
             <element signature="e#1809#1810#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
+            <element signature="e#1924#1925#0" expanded="true" />
+            <element signature="e#1969#1970#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+            <element signature="e#2081#2082#0" expanded="true" />
+            <element signature="e#2117#2118#0" expanded="true" />
+            <element signature="e#2150#2151#0" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+            <element signature="e#2223#2224#0" expanded="true" />
+            <element signature="e#2259#2260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/auction/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="103" column="32" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/auction/service/AuctionService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+        <state relative-caret-position="438">
+          <caret line="95" column="55" lean-forward="true" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2061#2070#0" expanded="true" />
+            <element signature="e#5918#5919#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -631,6 +978,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -653,6 +1001,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>13</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -664,10 +1013,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>Auction</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

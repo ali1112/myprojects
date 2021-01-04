@@ -1,27 +1,32 @@
 package com.auction.model;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
+import java.util.stream.Collectors;
+
 
 public class Auction {
     Integer id;
     Item item;
-    List<Buyer> buyers;
-    Seller seller;
-    Map<Integer, Integer> bids;
+    List<User> buyers;
+    User seller;
+    //Map<Integer, Integer> bids;
+    List<Bid> bids;
     Integer minBid;
     Integer maxBid;
     Integer participationCost;
+    boolean isClosed = false;
+    double profit;
 
-    public Auction(Integer id, Integer  itemId, Seller seller, Integer minBid, Integer maxBid, Integer participationCost) {
+    public Auction(Integer id, Integer  itemId, User seller, Integer minBid, Integer maxBid, Integer participationCost) {
         this.id = id;
         //this.buyers = buyers;
         this.seller = seller;
         this.minBid = minBid;
         this.maxBid = maxBid;
         this.participationCost = participationCost;
-        bids = new HashMap<Integer, Integer>();
+        bids = new ArrayList<Bid>();
+        profit=0;
     }
 
     public Integer getId() {
@@ -40,27 +45,30 @@ public class Auction {
         this.item = item;
     }
 
-    public List<Buyer> getBuyers() {
+    public List<User> getBuyers() {
         return buyers;
     }
 
-    public void setBuyers(List<Buyer> buyers) {
+    public void setBuyers(List<User> buyers) {
         this.buyers = buyers;
     }
 
-    public Seller getSeller() {
+    public User getSeller() {
         return seller;
     }
 
-    public void setSeller(Seller seller) {
-        this.seller = seller;
-    }
-
-    public Map<Integer, Integer> getBids() {
+    public List<Bid> getBids() {
         return bids;
     }
 
-    public void setBids(Map<Integer, Integer> bids) {
+    public List<Bid> getActiveBids() {
+        List<Bid> bids = this.bids.stream()
+                .filter(c -> c.active)
+                .collect(Collectors.toList());
+        return bids;
+    }
+
+    public void setBids(List<Bid> bids) {
         this.bids = bids;
     }
 
@@ -86,5 +94,25 @@ public class Auction {
 
     public void setParticipationCost(Integer participationCost) {
         this.participationCost = participationCost;
+    }
+
+    public boolean isClosed() {
+        return isClosed;
+    }
+
+    public void setClosed(boolean closed) {
+        isClosed = closed;
+    }
+
+    public void setSeller(User seller) {
+        this.seller = seller;
+    }
+
+    public double getProfit() {
+        return profit;
+    }
+
+    public void setProfit(double profit) {
+        this.profit = profit;
     }
 }
